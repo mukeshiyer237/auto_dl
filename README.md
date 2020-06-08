@@ -21,6 +21,6 @@ cd auto_dl
 streamlit run main.py
 ```
 
-![Output](1.png)
+![Output](1.PNG)
 
 
