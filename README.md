@@ -22,7 +22,7 @@ streamlit run main.py
 ```
 
 ## Screenshots 
-![Output](1.PNG)
-![Output](2.PNG)
+![Output](screenshots/1.PNG)
+![Output](screenshots/2.PNG)
 
 
