@@ -8,6 +8,8 @@ This repository enables users to build various deep learning models with no codi
 The following bash code will install all the necessary dependencies.
 
 ```bash
+git clone https://github.com/mukeshiyer237/auto_dl.git
+cd auto_dl
 pip install -r requirements.txt
 ```
 
@@ -16,8 +18,6 @@ pip install -r requirements.txt
 To run auto_dl on your local machine, follow these steps.
 
 ```bash
-git clone https://github.com/mukeshiyer237/auto_dl.git
-cd auto_dl
 streamlit run main.py
 ```
 
