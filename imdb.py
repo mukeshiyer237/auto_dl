@@ -84,6 +84,7 @@ def imdb_func():
         results = model.evaluate(x_test,y_test,batch_size=128)
         st.write("Loss: ",results[0])
         st.write("Accuracy: ",results[1])
+        model.save("models/imdb.h5")
         st.write("")
         st.write("**Predictions** (Random Test Samples)")
 
